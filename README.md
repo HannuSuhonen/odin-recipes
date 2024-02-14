@@ -1,1 +1,1 @@
-Going to have to make a recipe webpage for making some ramen noodles. 
+Going to have to make a recipe webpage for making some ramen noodles. I will keep it relatively simple I think, hopefully by the end of this project I can solidify my understanding of HTML and move on to more complex things! 
