@@ -1,0 +1,25 @@
+*{
+    background-color: grey;
+    color: white;
+}
+
+.title, 
+.subtitle{
+    font-family:'Times New Roman', Times, serif;
+    background-color: grey;
+    color: aqua;
+}
+
+.title{
+    text-align: center;
+}
+.subtitle{
+    font-style: italic;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
