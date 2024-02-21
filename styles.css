@@ -12,14 +12,27 @@
 
 .title{
     text-align: center;
+    border-bottom: thick double whitesmoke;
 }
 .subtitle{
     font-style: italic;
+}
+
+.recipe-section{
+    width: 50%;
+    float: left;
+    text-align:center;
+    margin-bottom: 5%;
 }
 
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+}
+.recipe-section img{
+    max-width:230px;
+    max-height:95px;
+    width: auto;
+    height: auto;
 }
