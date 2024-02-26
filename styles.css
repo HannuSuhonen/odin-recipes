@@ -41,15 +41,21 @@ img{
 .header{
     display: flex;
     margin-bottom: 10px;
-    align-items: center;
 }
 
 .home-link{
+    display: flex;
+    flex: 1;
+    justify-content:flex-start;
+}
+
+.title-right-margin{
+    display: flex;
     flex: 1;
 }
 
 .header .title{
-    flex: 2;
+    flex: 5;
     font-size: 42px;
     font-weight: bold;
 }
